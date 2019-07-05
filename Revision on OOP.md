@@ -24,13 +24,13 @@
 
 
 
-![UML Diagram](media\UML Diagram.png)
+![UML Diagram](media/UML Diagram.png)
 
 #### Creating Objects and object reference
 
 
 
-![ExampleCreateObject](media\ExampleCreateObject.png)
+![ExampleCreateObject](media/ExampleCreateObject.png)
 
 #### 
 
@@ -44,7 +44,7 @@ syntax: super(parameters) can pull parameters(data field) from another class
 
 
 
-![Superclass](mediaSuperclass.png)
+![Superclass](media/mediaSuperclass.png)
 
 ``public Circle (double radius, String color, boolean filled){`
 
