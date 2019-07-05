@@ -47,7 +47,7 @@ syntax: super(parameters) can pull parameters(data field) from another class
 
 ![Superclass](media/Superclass.png)
 
-``public Circle (double radius, String color, boolean filled){`
+`public Circle (double radius, String color, boolean filled){`
 
 `super(color,filled);`
 
